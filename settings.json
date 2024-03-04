@@ -1,0 +1,7 @@
+      Before Writing code for the settings.json install the jar driver connector to connect the java file and the Sql table or the file
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\gowri\\Downloads\\mysql-connector-j-8.1.0\\mysql-connector-j-8.1.0\\mysql-connector-j-8.1.0.jar"
+    ]
+}
